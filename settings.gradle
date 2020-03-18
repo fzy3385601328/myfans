@@ -1,0 +1,2 @@
+include ':app', ':myappmoneth1'
+rootProject.name='My FanMoneth20200317'
